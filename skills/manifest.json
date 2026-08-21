@@ -1,0 +1,86 @@
+{
+  "skill": "ai-xtcg",
+  "version": "v1.2.0",
+  "packageFormat": "zip-skill",
+  "logo": "ai-xtcg/icon.png",
+  "platforms": [
+    {
+      "id": "codex",
+      "name": "Codex",
+      "file": "ai-xtcg-codex-v1.2.0.skill",
+      "sha256": "b5882866202383e91ef5b6b06e2b76a060f20183c50a5e5a399d61ef116e7cfd"
+    },
+    {
+      "id": "cursor",
+      "name": "Cursor",
+      "file": "ai-xtcg-cursor-v1.2.0.skill",
+      "sha256": "50b994e62fec3472fe32fdb35e3093e74e06f097a2e4ec5c45948884bce4a7d7"
+    },
+    {
+      "id": "opencode",
+      "name": "OpenCode",
+      "file": "ai-xtcg-opencode-v1.2.0.skill",
+      "sha256": "b21a3f3da11a79f0762a251d2ba981b925cd8e1bb67cd1e6317f60e559e822c7"
+    },
+    {
+      "id": "workbuddy",
+      "name": "WorkBuddy",
+      "file": "ai-xtcg-workbuddy-v1.2.0.skill",
+      "sha256": "693512a9a8aa9db3181fc231cb734a5827817b13e1b88783dcc2d7258c92db3f"
+    },
+    {
+      "id": "qoderwork-cn",
+      "name": "QoderWork CN",
+      "file": "ai-xtcg-qoderwork-cn-v1.2.0.skill",
+      "sha256": "50e9ec70a7128a6bfa81ae3d1f7d039d3d67ef4f8a18316d4c8b9e94b1721132"
+    },
+    {
+      "id": "taer",
+      "name": "TAER",
+      "file": "ai-xtcg-taer-v1.2.0.skill",
+      "sha256": "a0d5b5ef3f0945de304561798be988480b67bee85bfd46ce8f028ff2ca3426f0"
+    },
+    {
+      "id": "trae-work-cn",
+      "name": "TRAE Work CN",
+      "file": "ai-xtcg-trae-work-cn-v1.2.0.skill",
+      "sha256": "52866369fbf67423a751a3e883465957f37b8c210a39beddca41872db1760701"
+    },
+    {
+      "id": "claude-code",
+      "name": "Claude Code",
+      "file": "ai-xtcg-claude-code-v1.2.0.skill",
+      "sha256": "2e712bce7a8357f3cd7652f25e435526dec2c7f4b7dd6d3a08b586269b3f4458"
+    },
+    {
+      "id": "deepseek-harness",
+      "name": "DeepSeek-Harness",
+      "file": "ai-xtcg-deepseek-harness-v1.2.0.skill",
+      "sha256": "5e409d4f34b3a258b14f7cf7d5f76ba0794cb9d83ee2234a3b157924610f1528"
+    },
+    {
+      "id": "zcode",
+      "name": "ZCode",
+      "file": "ai-xtcg-zcode-v1.2.0.skill",
+      "sha256": "3a4c4ffbe0df8303d950f718cfe291282118b2d256e3f35231f48a64eac36e6b"
+    },
+    {
+      "id": "kimi",
+      "name": "Kimi",
+      "file": "ai-xtcg-kimi-v1.2.0.skill",
+      "sha256": "5fbcbedbfefba86640214caea23e6c60e2d2c2bd38ba8b88668f46bb1700b833"
+    },
+    {
+      "id": "hermes",
+      "name": "Hermes",
+      "file": "ai-xtcg-hermes-v1.2.0.skill",
+      "sha256": "42a5d728d9bef1c3d614ba9b32dded5e460e812a2b8ee2659f03929ea790c9d2"
+    },
+    {
+      "id": "openclaw",
+      "name": "OpenClaw",
+      "file": "ai-xtcg-openclaw-v1.2.0.skill",
+      "sha256": "25c87392e2540af84b3dc7349f1e41619122fe6cb5986920823a94d7d669bc65"
+    }
+  ]
+}
